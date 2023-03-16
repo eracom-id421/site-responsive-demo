@@ -1,0 +1,31 @@
+
+/* Colors */
+
+header {
+    background-color: #cdc5df;
+  }
+  
+  header a {
+    color: #000;
+  }
+  
+  .highlight {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+  }
+  
+  main {background-color: #fff;}
+  
+  body,
+  footer {
+    background-color: #7d60a1;
+  }
+  
+  footer,
+  footer a {
+    color: #fff;
+  }
+
+
+  .blocs > * {
+    background-color: rgba(255, 255, 255, 0.5);
+}
