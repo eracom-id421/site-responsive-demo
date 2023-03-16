@@ -37,7 +37,6 @@ nav ul {
 
     }
 
-
     .columns {
 
     }
@@ -50,11 +49,11 @@ nav ul {
 
 @media screen and (min-width: 800px) {
     .columns {
-        /* columns: 3; */
+
     }
 
     .footer {
-        /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+
     }
 }
 
